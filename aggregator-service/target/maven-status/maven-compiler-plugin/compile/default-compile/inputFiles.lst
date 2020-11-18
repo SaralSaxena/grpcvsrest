@@ -1,0 +1,5 @@
+C:\grpc-vs-rest\aggregator-service\src\main\java\com\saral\api\AggregatorServiceApplication.java
+C:\grpc-vs-rest\aggregator-service\src\main\java\com\saral\api\service\RestSquareService.java
+C:\grpc-vs-rest\aggregator-service\src\main\java\com\saral\api\controller\RestServiceController.java
+C:\grpc-vs-rest\aggregator-service\src\main\java\com\saral\api\service\GrpcSquareService.java
+C:\grpc-vs-rest\aggregator-service\src\main\java\com\saral\api\controller\GrpcServiceController.java

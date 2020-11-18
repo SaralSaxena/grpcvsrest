@@ -1,0 +1,5 @@
+com\saral\api\controller\RestServiceController.class
+com\saral\api\service\GrpcSquareService.class
+com\saral\api\controller\GrpcServiceController.class
+com\saral\api\service\RestSquareService.class
+com\saral\api\AggregatorServiceApplication.class
